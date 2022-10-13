@@ -10,13 +10,14 @@ With 3 mode
 
 ## Video
 > [demo video on youtube](https://youtu.be/lHvhE-ei7LI)
-
-## Demo
 [![Everything Is AWESOME](https://img.youtube.com/vi/lHvhE-ei7LI/0.jpg)](https://youtu.be/lHvhE-ei7LIg "Color Spin")
 
+## Slot Game
+![Everything Is AWESOME](./assets/slot.png)]
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/lHvhE-ei7LI/2.jpg)](https://youtu.be/lHvhE-ei7LIg "Color Spin")
 
+## Bonus Game
+![Everything Is AWESOME](./assets/bonus.png)]
 
 
 ## flow
