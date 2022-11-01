@@ -3,7 +3,7 @@
 # ColorSpin (Client)
 A Slot game I built in C#, Unity. in 2018.
 
-With 3 mode
+With 3 modes
 - Slot Game (Roller performance)
 - Bonus Game
 - Feature Game
